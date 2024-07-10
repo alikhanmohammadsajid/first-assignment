@@ -7,10 +7,10 @@
   text-align: center;
 }
 .primary-btn {
-    color: #0D1321;
-    border: 1px solid #0D1321;
-    padding: 18px;
-    border-radius: 3px;
+  color: #0d1321;
+  border: 1px solid #0d1321;
+  padding: 18px;
+  border-radius: 3px;
 }
 /* shared style end  */
 /* nav styles start */
@@ -58,30 +58,29 @@
 .why-dev-section {
   margin-top: 40px;
 }
-.why-dev-datas > h1{
-    margin: 20px;
+.why-dev-datas > h1 {
+  margin: 20px;
 }
 /* <!-- why web-dev cards style start --> */
 
 .why-dev-card {
-display: flex;
-align-items: center;
-justify-content: space-between;
-margin-top: 35px;
-margin-right: 80px;
-margin-left: 80px;
-padding: 40px;
-border-radius: 5px;
-    box-shadow: 4px 3px 20px 0px rgba(54, 53, 53, 0.651);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 35px;
+  margin-right: 80px;
+  margin-left: 80px;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 4px 3px 20px 0px rgba(54, 53, 53, 0.651);
 }
 .why-dev-card-datas {
-    
 }
 .why-dev-card-datas > h1 {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 .why-dev-card-datas > p {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 /* <!-- why web-dev cards style end --> */
@@ -91,64 +90,94 @@ border-radius: 5px;
 /* <!-- My Inspiration section starts --> */
 
 .inspiration-section {
-    margin-top: 20px;
+  margin-top: 20px;
 }
-.inspiration-section h1{
-margin-bottom: 10px;
+.inspiration-section h1 {
+  margin-bottom: 10px;
 }
 .inspiration-video {
-    background-color: rgba(154, 202, 235, 0.363);
-    border: 1px solid #dbe1ee;
-    border-radius: 10px;
-    margin: 50px;
-    padding: 50px;
+  background-color: rgba(154, 202, 235, 0.363);
+  border: 1px solid #dbe1ee;
+  border-radius: 10px;
+  margin: 50px;
+  padding: 50px;
 }
 
 /* <!-- My Inspiration section style end --> */
 /* my current target section style start */
-.current-target{
-margin-bottom: 40px;
+.current-target {
+  margin-bottom: 40px;
 }
-.current-target h1{
-margin-bottom: 20px;
+.current-target h1 {
+  margin-bottom: 20px;
 }
 .current-target-cards {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    margin: 30px;
-    padding: 40px;
-    
-   
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 30px;
+  padding: 40px;
 }
-.current-cards-data{
-    margin-bottom: 20px;
-    padding: 20px;
+.current-cards-data {
+  margin-bottom: 20px;
+  padding: 20px;
 }
-.current-cards-data img{
-margin-bottom: 20px;
+.current-cards-data img {
+  margin-bottom: 20px;
 }
 .current-cards-data h3 {
-    margin-bottom: 10px;
-    font-size: bold;
+  margin-bottom: 10px;
+  font-size: bold;
 }
-.current-cards-data p{
-    margin-bottom: 20px;
+.current-cards-data p {
+  margin-bottom: 20px;
 }
-.current-cards-data a{
-    font-size: larger;
-    color: #0d1321;
+.current-cards-data a {
+  font-size: larger;
+  color: #0d1321;
 }
-.html{
-    border-radius: 6px;
-    background-color: #e6d1cd;
+.html {
+  border-radius: 6px;
+  background-color: #e6d1cd;
 }
 .css {
-    border-radius: 6px;
-    background-color: rgb(124, 124, 173);
+  border-radius: 6px;
+  background-color: rgb(124, 124, 173);
 }
 .js {
-    border-radius: 6px;
-    background-color: rgb(177, 223, 159);
+  border-radius: 6px;
+  background-color: rgb(177, 223, 159);
 }
 /* <!-- my current target  section style end  --> */
+
+/* <!-- support section style start  --> */
+.support-container {
+  background-image: url(./B10A1-Challenge-Begins/assets/handshake.jpg);
+  margin: 20px;
+  padding: 80px;
+  text-align: center;
+  border-radius: 10px;
+  height: 200px;
+}
+.support-container h1 {
+    margin-bottom: 20px;
+}
+.support-container  p{
+    margin-bottom: 20px;
+}
+.support-input {
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 10px;
+}
+.support-btn {
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    font-size: bold;
+    
+}
+/* <!-- support section style end  --> */
