@@ -36,7 +36,7 @@
 /* become a developer banner section style start */
 
 .banner-data {
-  background-image: url(./B10A1-Challenge-Begins/assets/Hero-bg.png);
+  background-image: url(./images/Hero-bg.png);
   margin: 20px;
   padding: 80px;
   text-align: center;
@@ -74,8 +74,7 @@
   border-radius: 5px;
   box-shadow: 4px 3px 20px 0px rgba(54, 53, 53, 0.651);
 }
-.why-dev-card-datas {
-}
+
 .why-dev-card-datas > h1 {
   margin-bottom: 20px;
 }
@@ -152,7 +151,7 @@
 
 /* <!-- support section style start  --> */
 .support-container {
-  background-image: url(./B10A1-Challenge-Begins/assets/handshake.jpg);
+  background-image: url(./images/handshake.jpg);
   margin: 20px;
   padding: 80px;
   text-align: center;
@@ -181,3 +180,18 @@
     
 }
 /* <!-- support section style end  --> */
+
+/* footter style start  */
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding: 30px;
+  
+}
+
+
+
+
+/* footter style end */
